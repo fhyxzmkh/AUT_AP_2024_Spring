@@ -1,0 +1,3 @@
+/home/spike/cs/AUT_AP_2024_Spring/AUT_AP_2024_Spring_HW2/build/CMakeFiles/main.dir
+/home/spike/cs/AUT_AP_2024_Spring/AUT_AP_2024_Spring_HW2/build/CMakeFiles/edit_cache.dir
+/home/spike/cs/AUT_AP_2024_Spring/AUT_AP_2024_Spring_HW2/build/CMakeFiles/rebuild_cache.dir
